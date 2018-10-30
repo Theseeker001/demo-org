@@ -1,0 +1,1172 @@
+[
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540897971327,
+            "changeTime": 1540897971327,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540897971328,
+            "changeTime": 1540897971328,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608719,
+            "changeTime": 1540899608719,
+            "contentHash": "b5dddb40848d55828442af4635c28e5aea9d8f57",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608325,
+            "changeTime": 1540899608325,
+            "contentHash": "e01c530c3177a7affa67b7bff1c3719b912da749",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\applications\\Recruiting.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\applications\\Recruiting.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 923,
+            "modifiedTime": 1540899608326,
+            "changeTime": 1540899608326,
+            "contentHash": "ce3d93ab2a1744cd5f29a8aed386c6c61c00280e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540897971329,
+            "changeTime": 1540897971329,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\contentassets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608334,
+            "changeTime": 1540899608334,
+            "contentHash": "a826202034fa54697927474211cb3e7cd2e132a8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\contentassets\\AW_Computing_logo.asset",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\contentassets\\AW_Computing_logo.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 8433,
+            "modifiedTime": 1540899608335,
+            "changeTime": 1540899608335,
+            "contentHash": "3f6a3374cd316a16e9fe7ccac537ba069177fc39",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\contentassets\\AW_Computing_logo.asset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\contentassets\\AW_Computing_logo.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 547,
+            "modifiedTime": 1540899608331,
+            "changeTime": 1540899608331,
+            "contentHash": "6efeae5b8c131a3c8097da61e4b200451edbed9b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\globalValueSets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\globalValueSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608340,
+            "changeTime": 1540899608340,
+            "contentHash": "3edd872a5e948123b36c8581604df126046f3bf7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\globalValueSets\\Department.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\globalValueSets\\Department.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 875,
+            "modifiedTime": 1540899608342,
+            "changeTime": 1540899608342,
+            "contentHash": "ad95cd674d289aa1156ecc18fb2983eebcb5f240",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608364,
+            "changeTime": 1540899608364,
+            "contentHash": "0e616e3fdf71cb0d5ac1b5c5930c9fda6521c837",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\layouts\\Candidate__c-Candidate Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\layouts\\Candidate__c-Candidate Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5347,
+            "modifiedTime": 1540899608349,
+            "changeTime": 1540899608349,
+            "contentHash": "2c16d7b2d79b657f67d06f432f4d6c4eb45511c3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\layouts\\Interviewer__c-Interviewer Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\layouts\\Interviewer__c-Interviewer Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2500,
+            "modifiedTime": 1540899608354,
+            "changeTime": 1540899608354,
+            "contentHash": "d9570cd9e9981ad213eee1a12c5775193410f8ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\layouts\\Job_Application__c-Job Application Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\layouts\\Job_Application__c-Job Application Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2646,
+            "modifiedTime": 1540899608360,
+            "changeTime": 1540899608360,
+            "contentHash": "5f4d253dcc6824d8e9ce7575750f2df5a1fd5a81",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\layouts\\Position__c-Position Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\layouts\\Position__c-Position Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5121,
+            "modifiedTime": 1540899608366,
+            "changeTime": 1540899608366,
+            "contentHash": "57f2bc820a136a7d72170e17cc3c08b91442764e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608626,
+            "changeTime": 1540899608626,
+            "contentHash": "9d0ace5ac27b1a01ed4ed8262f4862e77027be98",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608484,
+            "changeTime": 1540899608484,
+            "contentHash": "b6f3ea943d900b28edb7cb1601e8745aa1d9497e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\Candidate__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\Candidate__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2216,
+            "modifiedTime": 1540899608390,
+            "changeTime": 1540899608390,
+            "contentHash": "811f8fc1860d5bef41f3e5a90f4fa5cf8c720d46",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608478,
+            "changeTime": 1540899608478,
+            "contentHash": "0151dfa9cab9113b01b0851b81dab20506e777a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\City__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 400,
+            "modifiedTime": 1540899608396,
+            "changeTime": 1540899608396,
+            "contentHash": "5d85e3ab7a235c18b0a83d1c29da51bfd602be73",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Country__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Country__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1540899608401,
+            "changeTime": 1540899608401,
+            "contentHash": "d5eb435b879e6f3fbbc28aaded588393a3c28196",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Currently_Employed__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Currently_Employed__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 389,
+            "modifiedTime": 1540899608413,
+            "changeTime": 1540899608413,
+            "contentHash": "dedd5e603a09f06eb9fca070877aaae322a3007e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Current_Employer__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Current_Employer__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 424,
+            "modifiedTime": 1540899608408,
+            "changeTime": 1540899608408,
+            "contentHash": "326e71bdd85caa63b2b807e55852998c17a81e31",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Education__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Education__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1684,
+            "modifiedTime": 1540899608420,
+            "changeTime": 1540899608420,
+            "contentHash": "89118d2fd6824348efc68cd6b73e59768aaab617",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Email__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 379,
+            "modifiedTime": 1540899608425,
+            "changeTime": 1540899608425,
+            "contentHash": "4cf558a92cd46073b9cabde319e700ac204ac1e4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\First_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\First_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 412,
+            "modifiedTime": 1540899608432,
+            "changeTime": 1540899608432,
+            "contentHash": "b84116a58b9fc3c7b29e6c4fc45a6aa5d254f50a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Last_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Last_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 410,
+            "modifiedTime": 1540899608437,
+            "changeTime": 1540899608437,
+            "contentHash": "5e7a72964dd8c8e6dec7c95e9337f7644c8ec9cf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Legacy_Candidate_Number__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Legacy_Candidate_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 477,
+            "modifiedTime": 1540899608443,
+            "changeTime": 1540899608443,
+            "contentHash": "54085b0b5b2f3fdf6127ac1cda4ee89f5aac58f1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Mobile__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Mobile__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 354,
+            "modifiedTime": 1540899608448,
+            "changeTime": 1540899608448,
+            "contentHash": "355d83754a80f2010e6e8087875adaf57e134cb8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Phone__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 352,
+            "modifiedTime": 1540899608454,
+            "changeTime": 1540899608454,
+            "contentHash": "c69f91c520854e3d0395f49fdd664dc1965b43d2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\State_Province__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\State_Province__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 420,
+            "modifiedTime": 1540899608460,
+            "changeTime": 1540899608460,
+            "contentHash": "212ce40ec2129962225fd1ad743956071e23b86a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Street_Address_1__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Street_Address_1__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 424,
+            "modifiedTime": 1540899608466,
+            "changeTime": 1540899608466,
+            "contentHash": "2776f2b2328cf669a727fd47a44349b8f5fb8254",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Street_Address_2__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Street_Address_2__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 424,
+            "modifiedTime": 1540899608471,
+            "changeTime": 1540899608471,
+            "contentHash": "2ed3188654f829ce1c7d4f39fa836df97d75e9c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Years_of_Experience__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Years_of_Experience__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 458,
+            "modifiedTime": 1540899608477,
+            "changeTime": 1540899608477,
+            "contentHash": "7246a1aef9ff1e6c9cc94d4dda7633ce303e9060",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Zip_Postal_Code__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\fields\\Zip_Postal_Code__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 422,
+            "modifiedTime": 1540899608483,
+            "changeTime": 1540899608483,
+            "contentHash": "aa0eb986bf96d0dffb11fc88309880a2ceb1be16",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608485,
+            "changeTime": 1540899608485,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Candidate__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1540899608490,
+            "changeTime": 1540899608490,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Interviewer__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Interviewer__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608544,
+            "changeTime": 1540899608544,
+            "contentHash": "7df8354116a4682850c50d569e4c67340d37049e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Interviewer__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Interviewer__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608538,
+            "changeTime": 1540899608538,
+            "contentHash": "c187c171504bb5544cbd873dff87b5e82048b51d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Interviewer__c\\fields\\Employee__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Interviewer__c\\fields\\Employee__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 451,
+            "modifiedTime": 1540899608530,
+            "changeTime": 1540899608530,
+            "contentHash": "be745bbcf37283daa73d3cbf33952963c2945d9d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Interviewer__c\\fields\\Legacy_Interviewer_Number__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Interviewer__c\\fields\\Legacy_Interviewer_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 434,
+            "modifiedTime": 1540899608536,
+            "changeTime": 1540899608536,
+            "contentHash": "ce12aa8d07a21c627f026b3a1c2cdd8529bde2cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Interviewer__c\\fields\\Position__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Interviewer__c\\fields\\Position__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 514,
+            "modifiedTime": 1540899608543,
+            "changeTime": 1540899608543,
+            "contentHash": "a6ec6187e74fcded1c1e14220aa2d5d6dd0dd100",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Interviewer__c\\Interviewer__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Interviewer__c\\Interviewer__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2171,
+            "modifiedTime": 1540899608521,
+            "changeTime": 1540899608521,
+            "contentHash": "1ef2866672c87d2884878f9da8ccddb268dcaf1a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Interviewer__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Interviewer__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608545,
+            "changeTime": 1540899608545,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Interviewer__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Interviewer__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 410,
+            "modifiedTime": 1540899608551,
+            "changeTime": 1540899608551,
+            "contentHash": "a0bc497c45bb1d73f1fadc05a768989641ec5233",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608603,
+            "changeTime": 1540899608603,
+            "contentHash": "2dc3ff1e3bcc7882bc09c22a1cb6ead5db1844f5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608597,
+            "changeTime": 1540899608597,
+            "contentHash": "8e79d5f2bf7a945d5a1f2edd48da61ca9912109f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\fields\\Candidate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\fields\\Candidate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 525,
+            "modifiedTime": 1540899608577,
+            "changeTime": 1540899608577,
+            "contentHash": "a4ddfc6e7b0a7b14bfc712691d1a1f21cead0b89",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\fields\\Legacy_Job_Application_Number__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\fields\\Legacy_Job_Application_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 442,
+            "modifiedTime": 1540899608582,
+            "changeTime": 1540899608582,
+            "contentHash": "904cb33dd92561aaec75f3ed6745bd6a595dd60b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\fields\\Position__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\fields\\Position__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 522,
+            "modifiedTime": 1540899608589,
+            "changeTime": 1540899608589,
+            "contentHash": "b514b5331ff48b9fd051d228373438e66db84568",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\fields\\Stage__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\fields\\Stage__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3634,
+            "modifiedTime": 1540899608596,
+            "changeTime": 1540899608596,
+            "contentHash": "3fe527e68608c55e2e7ba690333c6aeb8a58e8c6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 918,
+            "modifiedTime": 1540899608601,
+            "changeTime": 1540899608601,
+            "contentHash": "1634f454ff3876090bfe053d3788b63dd5fb3a20",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\Job_Application__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\Job_Application__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2153,
+            "modifiedTime": 1540899608570,
+            "changeTime": 1540899608570,
+            "contentHash": "3453779675670d81deaa651a817bf10cef9c56c5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608604,
+            "changeTime": 1540899608604,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Job_Application__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1540899608606,
+            "changeTime": 1540899608606,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608697,
+            "changeTime": 1540899608697,
+            "contentHash": "06a3704cce9e74701c9a09d429bb772eb86a551f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608692,
+            "changeTime": 1540899608692,
+            "contentHash": "c012a2840d1ab7a09cbcd3580c463b7737339159",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Approval_Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Approval_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1178,
+            "modifiedTime": 1540899608637,
+            "changeTime": 1540899608637,
+            "contentHash": "aa521c7205e238aa580545d08d0f3b773247b96d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Department__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Department__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 482,
+            "modifiedTime": 1540899608643,
+            "changeTime": 1540899608643,
+            "contentHash": "28125277247e3bcec1e3001f13aa211bda5aae4a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Education__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Education__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 398,
+            "modifiedTime": 1540899608649,
+            "changeTime": 1540899608649,
+            "contentHash": "e03687433622ad99d15b9a0e218694e79b077a99",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Hiring_Manager__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Hiring_Manager__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 507,
+            "modifiedTime": 1540899608655,
+            "changeTime": 1540899608655,
+            "contentHash": "caf91c63f9721f8d057b2828da4ceb8c04aa00a1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Job_Description__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Job_Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 375,
+            "modifiedTime": 1540899608661,
+            "changeTime": 1540899608661,
+            "contentHash": "08009ecd68af408a434e41a34a4040de30cdb92d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Legacy_Position_Number__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Legacy_Position_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 475,
+            "modifiedTime": 1540899608666,
+            "changeTime": 1540899608666,
+            "contentHash": "be86768d6b2cf6efe2bdde6d6c3424385a86db90",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1124,
+            "modifiedTime": 1540899608673,
+            "changeTime": 1540899608673,
+            "contentHash": "6dac5d4d6dd67fd40b527bbdf84ef12608ea6775",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Pay_Grade__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Pay_Grade__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3768,
+            "modifiedTime": 1540899608678,
+            "changeTime": 1540899608678,
+            "contentHash": "4c0a3fe2cd699329b94da6cfe8d9ed9d3458758c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Salary_Range__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Salary_Range__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1156,
+            "modifiedTime": 1540899608684,
+            "changeTime": 1540899608684,
+            "contentHash": "26e1385e8ccf9decaa79b804247a7f7b8e566e74",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Skills_Required__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Skills_Required__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 410,
+            "modifiedTime": 1540899608691,
+            "changeTime": 1540899608691,
+            "contentHash": "67532cb3b3d64e90d905dc1f4130f316b024b56e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 963,
+            "modifiedTime": 1540899608696,
+            "changeTime": 1540899608696,
+            "contentHash": "d982fcc6ef5e36cac5c691cad7cb7a4f66481f0a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608698,
+            "changeTime": 1540899608698,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1540899608700,
+            "changeTime": 1540899608700,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\Position__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\objects\\Position__c\\Position__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2112,
+            "modifiedTime": 1540899608631,
+            "changeTime": 1540899608631,
+            "contentHash": "d9ea928ea80f641d69f0c13ab326a90904990d21",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540899608733,
+            "changeTime": 1540899608733,
+            "contentHash": "720218d893c3048476687d771e9412e6afa8133d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\tabs\\Candidate__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\tabs\\Candidate__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1540899608722,
+            "changeTime": 1540899608722,
+            "contentHash": "6e6ce36238c68c3363a64744a7072e1a6ec83ae1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\tabs\\Interviewer__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\tabs\\Interviewer__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1540899608727,
+            "changeTime": 1540899608727,
+            "contentHash": "87293cec66ff4aa17d55a221eb0c2b8dc2e8bbb2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\tabs\\Job_Application__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\tabs\\Job_Application__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1540899608731,
+            "changeTime": 1540899608731,
+            "contentHash": "034a036d0c9584f092664a460df877425641571b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\tabs\\Position__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org\\Recruting\\main\\default\\tabs\\Position__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1540899608735,
+            "changeTime": 1540899608735,
+            "contentHash": "8d5ecb4afd265179509ffa5b60cff2d56c2b133d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\O39260\\Documents\\Salesforce\\SFDX Docs\\SFDX Test\\demo-org",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540900264101,
+            "changeTime": 1540900264101,
+            "contentHash": "5719011fd274a99075efdbdce98c186782d962e9",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
